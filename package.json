@@ -1,0 +1,22 @@
+{
+  "name": "web-playback-sdk",
+  "version": "1.0.0",
+  "description": "H1 Spotify Web Playback SDK",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtharden3/spotify-web-playback-sdk-tut.git"
+  },
+  "author": "Whitney Harden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtharden3/spotify-web-playback-sdk-tut/issues"
+  },
+  "homepage": "https://github.com/wtharden3/spotify-web-playback-sdk-tut#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
